@@ -6,7 +6,7 @@
  - Implemented Redis for data caching, containerized the application services and hosted on AWS. 
  - Implemented MongoDB replication and tested the performance on JMeter and Mocha. 
 
-Developed by a team of 6 (please check contributors for more details).
+
 
 
 ## Application Link
