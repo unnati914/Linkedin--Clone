@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+div{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+p,h1,h2,h3,h4,h5,h6{
+	margin : 0px;
+	padding:0px;
+}
+
+/* Job list card */
+.postings-parent{
+    bottom: 0;
+    float: left;
+    overflow-y: auto;
+    position: relative;
+    height: 100%;
+}
+
+.joblist-row{
+  padding : 4px;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.joblist-row:hover{
+  background-color:#E2F4FC;
+  border-bottom: 0px
+}
+
+/* Job Description */
+#job-save-btn{
+	color:#0073b1;
+	border:0.3px solid #0073b1;
+	background-color:white;
+	font-style:bold;
+	font-size:13px;
+	margin-right:1rem;
+	border-radius:3px;
+	width:5rem;
+}
+
+#easy-apply-btn{
+	background-color:#0073b1;
+	color:white;
+	font-style:bold;
+	font-size:13px;
+	border-radius:3px;
+	width:6rem;
+}
+
+#job-detail-row{
+	border-bottom:1px solid #E0E0E0;
+	border-top:1px solid #E0E0E0;
+}
+
+#col-seperator{
+	border-left:1px solid #E0E0E0;
+	border-right:1px solid #E0E0E0;
+}
+
+/* connections css */
+#all-connections-list{
+	columns: 3;
+	padding: 5px;
+	border: 0.5px solid grey;
+}
+.connection:hover{
+    background-color:#E2F4FC;
+}
+.body{
+	background-color: white;
+}
