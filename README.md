@@ -115,7 +115,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Front End 
 ## Install
 
-    $ git clone https://github.com/mssrinivas/LinkedIn-Clone.git
+    $ git clone https://github.com/unnati914/LinkedIn-Clone.git
     $ cd LinkedIn-Clone/linkedin-frontend
     $ npm install
 
@@ -127,7 +127,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Back End 
 ## Install
 
-    $ git clone https://github.com/mssrinivas/LinkedIn-Clone.git
+    $ git clone https://github.com/unnati914/LinkedIn-Clone.git
     $ cd LinkedIn-Clone/linkedin-backend/
     $ npm install
 
